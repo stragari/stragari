@@ -25,9 +25,6 @@ Here are some ideas to get you started:
 
 ### <div align="center">A FullStack, a full-time full-stack developer 👨‍💻 working remotely since 2013 🚀</div>  
   
-
-(https://github.com/rishavanand/github-profilinator)
-
 Highly experienced Full Stack Systems Engineer with a proven track record in developing, deploying, and optimizing cutting-edge software solutions. Specializing in building scalable, high-quality applications with a hands-on mentality and full ownership of the development lifecycle. Passionate about innovation, solving complex challenges, and applying agile methodologies like Scrum to drive efficiency and exceed business expectations. Seeking to contribute my technological versatility and experience in high-performance teams.
 
 Over the past 10 years, I have worked on diverse systems, including e-commerce, access control, and accounting. My experience spans a variety of projects such as inventory systems for eye care, virtual meeting points, tourism platforms, and a social network for the care of loved ones. Throughout these years, I have gained extensive knowledge in Full Stack development.  
